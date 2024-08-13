@@ -37,4 +37,4 @@ A definir por el docente.
 
 ## Recursos adicionales
 
-[5] Y. Salazar, P. A. Valle, E. Rodríguez, N. O. Soto-Cruz, J. B. Páez-Lerma, y F. J. Reyes-Sánchez, "Mechanistic modelling of biomass growth, glucose consumption, and ethanol production by *Kluyveromyces marxianus* in batch fermentation," *Entropy*, vol. 25, no. 3, p. 497, Mar. 2023, consultado el 16 de octubre de 2023. [https://doi.org/10.3390/e25030497](https://doi.org/10.3390/e25030497)
+[1] Y. Salazar, P. A. Valle, E. Rodríguez, N. O. Soto-Cruz, J. B. Páez-Lerma, y F. J. Reyes-Sánchez, "Mechanistic modelling of biomass growth, glucose consumption, and ethanol production by *Kluyveromyces marxianus* in batch fermentation," *Entropy*, vol. 25, no. 3, p. 497, Mar. 2023, consultado el 16 de octubre de 2023. [https://doi.org/10.3390/e25030497](https://doi.org/10.3390/e25030497)
